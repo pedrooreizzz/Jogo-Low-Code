@@ -1,2 +1,2 @@
 console.log(nome);
-var nome = nome("Informe seu nome: ");
+let nome = nome("Informe seu nome: ");
